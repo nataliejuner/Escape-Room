@@ -13,9 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+
 h1, h2, h3 {
 text-align: center;
 color: red;
+margin-left: 50px;
+margin-right: 50px;	
 }
 
 h3{
@@ -28,6 +32,8 @@ input{
     border-radius: 10px;
     font-size: 15px;
 }
+
+/* home page */
 .Homepagebutton {
 text-align: center;
 }
@@ -35,9 +41,24 @@ text-align: center;
 form{
     text-align: center;
 }
+
+.footer{
+font-size: 16px;
+ position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+/* background image */
 body{
     background-image: url(http://i.imgur.com/POg61G6.jpg);
-    background-size: cover;
+		background-size: cover;
+		background-repeat: repeat-y;
+}
+
+.dante{
+	font-size: 16px;
 }
 
 .pepe{
