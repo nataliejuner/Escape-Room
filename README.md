@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my first Ruby on Rails project I created at LEARN Academy. I made it originally in a mob setting, but then later finished it on my own. It is a pretty straight forward game but still takes some thinking to be able to survive the game!
 
-Things you may want to cover:
+You can visit the demo of the project here: [Escape Room](https://escape-room-learn2019.herokuapp.com/)
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You can visit my full portfolio here where more projects are listed: [Portfolio](https://nataliejuner.github.io/)
